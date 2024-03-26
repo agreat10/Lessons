@@ -1,0 +1,20 @@
+[
+{
+  "directory": "G:/CPP/Lessons/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/helloworld.dir/includes_CXX.rsp -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\helloworld.dir\\lib.cpp.obj -c G:\\CPP\\Lessons\\lib.cpp",
+  "file": "G:/CPP/Lessons/lib.cpp",
+  "output": "CMakeFiles/helloworld.dir/lib.cpp.obj"
+},
+{
+  "directory": "G:/CPP/Lessons/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\helloworld_cli.dir\\main.cpp.obj -c G:\\CPP\\Lessons\\main.cpp",
+  "file": "G:/CPP/Lessons/main.cpp",
+  "output": "CMakeFiles/helloworld_cli.dir/main.cpp.obj"
+},
+{
+  "directory": "G:/CPP/Lessons/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBOOST_TEST_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB  -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\test_version.dir\\test_version.cpp.obj -c G:\\CPP\\Lessons\\test_version.cpp",
+  "file": "G:/CPP/Lessons/test_version.cpp",
+  "output": "CMakeFiles/test_version.dir/test_version.cpp.obj"
+}
+]

@@ -1,0 +1,12 @@
+G:/CPP/Lessons/build/CMakeFiles/helloworld_cli.dir
+G:/CPP/Lessons/build/CMakeFiles/helloworld.dir
+G:/CPP/Lessons/build/CMakeFiles/test_version.dir
+G:/CPP/Lessons/build/CMakeFiles/package.dir
+G:/CPP/Lessons/build/CMakeFiles/package_source.dir
+G:/CPP/Lessons/build/CMakeFiles/test.dir
+G:/CPP/Lessons/build/CMakeFiles/edit_cache.dir
+G:/CPP/Lessons/build/CMakeFiles/rebuild_cache.dir
+G:/CPP/Lessons/build/CMakeFiles/list_install_components.dir
+G:/CPP/Lessons/build/CMakeFiles/install.dir
+G:/CPP/Lessons/build/CMakeFiles/install/local.dir
+G:/CPP/Lessons/build/CMakeFiles/install/strip.dir
